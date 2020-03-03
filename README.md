@@ -1,5 +1,5 @@
 # GW Data Visualizer
-GW Data Visualizer allows you to get important analytics and statistics about your dataset
+GW Data Visualizer allows you to get important analytics and statistics about your dataset.
 
 #### To run:
 ```sh
